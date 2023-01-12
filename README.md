@@ -13,4 +13,3 @@ I created JSON files to store player information, such as name and score to be s
 as well as other more detailed information for each level to be sent to the clients.
 A link to the finished project is below:
 https://regame-xr-lab.itch.io/rainbow-crystal-mining-adventure
-![image](https://user-images.githubusercontent.com/97466196/212148359-ef232d69-d544-432c-b861-1f904d99e376.png)
