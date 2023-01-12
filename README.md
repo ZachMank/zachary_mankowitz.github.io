@@ -14,4 +14,5 @@ as well as other more detailed information for each level to be sent to the clie
 A link to the finished project is below:
 https://regame-xr-lab.itch.io/rainbow-crystal-mining-adventure
 
-I will be adding more work.
+I will be adding scripts from the above project soon.
+I will be adding some class work and other projects soon.
