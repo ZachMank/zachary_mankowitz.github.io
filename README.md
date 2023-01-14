@@ -1,7 +1,7 @@
 # zachary_mankowitz.github.io
 
 # About Me
-Hello my name is Zachary Mankowitz. I am a CS major at Landmark College.
+Hello my name is Zachary Mankowitz. I am a CS major at Landmark College, graduating in December 2023.
 My primary coding skills are in C# and C++. I am also familiar with Java, Python, and MySQL.
 I am able to use Unity and Blender for game design. I am also familiar with the github interface.
 I can use the microsoft office suite.
