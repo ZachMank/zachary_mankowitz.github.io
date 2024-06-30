@@ -1,13 +1,13 @@
 # zachary_mankowitz.github.io
 
 # About Me
-Hello my name is Zachary Mankowitz. I am a CS major at Landmark College, graduating in December 2023.
+Hello my name is Zachary Mankowitz. I graduated Landmark College in December 2023 with a BS in computer science.
 My primary coding skills are in C# and C++. I am also familiar with Java, Python, and MySQL.
 I am able to use Unity and Blender for game design. I am also familiar with the github interface.
 I can use the Microsoft Office Suite.
 
 # Player Online Learning / Rainbow Crystal Mining Adventure
-This past summer (2022), I worked at ReGame-XR at Northeastern University, as part of a six person group.
+During summer (2022), I worked at ReGame-XR at Northeastern University, as part of a six person group.
 I was one of the two core programmers on the Rainbow Crystal Mining Adventure project, a game designed in Unity to be used for research purposes.
 I used C# to code the essential aspects of the game such as player interactiability,
 as well as keeping consistent frequency of crystal flashes in the game to meet the clients' (Ubisoft) request so that they could do data analysis.
@@ -18,5 +18,4 @@ A link to the finished project is below:
 https://regame-xr-lab.itch.io/rainbow-crystal-mining-adventure
 
 # Other Information
-I will be adding scripts from the above project soon.
-I will be adding some class work and other projects soon.
+I will be adding other projects soon.
